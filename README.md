@@ -1,0 +1,2 @@
+# SCT
+Super Cool Timer
